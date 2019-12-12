@@ -8,6 +8,6 @@ making process of issuing, adding or removing of books easier. There are two rol
 where student can only issue book or give it back, while librarian has more abilities like adding and delivering new books. 
 
 Screenshots:
-
+![alt text](https://user-images.githubusercontent.com/35764402/70697761-501c9280-1cf0-11ea-9af8-e7b8972c5620.jpg)
 
 
